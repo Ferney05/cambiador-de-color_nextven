@@ -8,7 +8,7 @@
     align-items: center;
     background: linear-gradient(120deg, #6d4c41, #212121);
     width: 50%;
-    padding: 10px;
+    padding: 0;
 
     margin: auto;
     position: relative;
@@ -36,13 +36,13 @@
 
 .color {
     position: relative;
-    left: 3em;
+    left: 5em;
     font-size: 18px;
 }
 
 .titulo {
     position: relative;
-    left: 1.5em;
+    left: 3em;
     font-size: 25px;
     color: white;
 }
