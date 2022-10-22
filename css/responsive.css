@@ -1,0 +1,35 @@
+
+@media screen and (max-width: 480px){
+    .texto {
+        width: 90%;
+        margin: 0;
+        position: relative;
+        left: 0.5em;
+        top: 14em;
+    }
+
+    .boton {
+        position: relative;
+        top: 17em;
+    }
+
+    .boton_cambia-color {
+        font-size: 15px;
+    }
+
+    .titulo {
+        display: none;
+    }
+
+    .titulo2 {
+        display: block;
+        position: relative;
+        left: 0.5em;
+    }
+
+    .color {
+        position: relative;
+        left: 1.5em;
+        font-size: 25px;
+    }
+}
